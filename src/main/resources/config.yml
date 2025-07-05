@@ -1,0 +1,19 @@
+crafting-enabled: true
+
+item:
+  name: "&6Baguette" # Ampersand code &6 for gold color
+  lore:
+    - "" # Empty line - no description added
+  custom-model-data: 1 # Unique model ID for resource pack
+  stack-size: 64 # Maximum stack size (1-64)
+
+crafting:
+  ingredients:
+    - BREAD
+    - BREAD
+  result-amount: 1 # Number of baguettes crafted
+
+# Available crafting types
+crafting-types:
+  workbench: true
+  furnace: false

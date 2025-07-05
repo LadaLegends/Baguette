@@ -1,0 +1,15 @@
+name: Baguette
+main: com.ladalegends.baguette.Baguette
+version: 1.0
+author: LadaLegends
+api-version: 1.21
+description: Adds a customizable crafting recipe for baguette
+commands:
+  baguette:
+    description: Main command for the Baguette plugin
+    usage: /<command> reload
+    tab-completer: com.ladalegends.baguette.Baguette
+permissions:
+  baguette.reload:
+    description: Allows reloading of configuration
+    default: op
