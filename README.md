@@ -1,5 +1,5 @@
 # Download
-- You can download the plugin in compiled form on [Modrinth](https://modrinth.com/plugin/simple_baguette)
+- You can download the plugin in compiled form on [Modrinth](https://modrinth.com/plugin/simple_baguette), or in the "[Releases](https://github.com/LadaLegends/Baguette/releases/tag/plugin)" tab
 
 # Description
 ### En
