@@ -1,10 +1,17 @@
-# En
-This plugin adds a Baguette with its own recipe. The plugin has a configuration in which you can configure the plugin in detail, change the name of the baguette, description, etc.
+# Download
+- You can download the plugin in compiled form on [Modrinth](https://modrinth.com/plugin/simple_baguette)
 
-# Ru
-Данный плагин добавляет Багет со своим рецептом. Плагин имеет конфигурацию, в которой вы можете подробно настроить плагин, изменить название багета, описание и так далее
+# Description
+### En
+>This plugin adds a Baguette with its own recipe. The plugin has a configuration in which you can configure the plugin in detail, change the name of the baguette, description, etc.
 
-# config.yml
+### Ru
+>Данный плагин добавляет Багет со своим рецептом. Плагин имеет конфигурацию, в которой вы можете подробно настроить плагин, изменить название багета, описание и так далее
+
+
+# Config
+### config.yml
+```
 crafting-enabled: true
 
 item:
@@ -23,3 +30,4 @@ crafting:
 crafting-types:
   workbench: true
   furnace: false
+```
